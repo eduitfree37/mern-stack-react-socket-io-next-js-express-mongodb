@@ -1,0 +1,5 @@
+# MERN Stack React, Socket io, Next.js Express,MongoDb, Nodejs
+
+If you are seeking to expand your skills in creating enterprise-grade full stack applications using the latest technologies and are open to learning a new CSS framework, then this course is tailored for you. By completing this course, you will gain the expertise to develop practical, industry-ready projects that will greatly enhance your resume and increase your chances of securing a rewarding professional position. It is important to note that this course is not suitable for beginners, as it requires prior experience with at least 1 MERN project. This comprehensive program is designed for individuals who are ready to challenge themselves and acquire valuable skills through hands-on project development. 
+
+[Detail](https://eduitfree.com/courses/mern-stack-react-socket-io-next-js-express-mongodb-nodejs)
